@@ -13,7 +13,7 @@ redirect_from:
 Education  
 ======  
 * **Master in Electrical Engineering (VLSI Track)**  
-  University of Michigan Ann Arbor (UofM), USA, 8/2022 - 5/2024 (expected)  
+  University of Michigan Ann Arbor (UofM), USA, 8/2022 - 5/2024 
   - GPA: 3.927  
 
 * **Bachelor of Science in Computer Engineering**  
