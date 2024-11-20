@@ -34,7 +34,7 @@ Research Experience
   - Designed a testing platform for back-scattering BTLE signal ([ISSCC 2022]).  
 
 * **2/2023 - 6/2024: Michigan Integrated Circuit Lab (MICL), UofM, USA**  
-  - Developed a router feature for power net routing in OpenFASOC ([ICCAD 2024], [ISSCC 2024]).  
+  - Developed a router feature for power net routing in OpenFASOC ([ICCAD 2024], [ISSCC "Code-a-Chip" Travel Grant Awards 2024]).  
   - Conducted performance analysis of Nvidia’s confidential GPGPU architecture using large models like LLaMA.  
 
 * **7/2024 - Present: EIC Lab, Georgia Institute of Technology, USA**  
