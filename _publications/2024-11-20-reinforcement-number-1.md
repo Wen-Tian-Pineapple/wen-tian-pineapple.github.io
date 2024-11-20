@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/2024-11-20-reinforcement-number-1/
 excerpt: 'Ali Hammoud *, Wen Tian *, Anhang Li *, Ayushman Tripathi, Karthik Lakshmanan, Harsh Khandeparkar, Ryan Wans, Gregory Kielian, Boris Murmann, Dennis Sylvester, Mehdi Saligane'
 date: 2024-06-01
-venue: '2024 ACM/IEEE International Conference on Computer‑Aided Design (ICCAD 2024)'
+venue: 'ACM/IEEE International Conference on Computer‑Aided Design (ICCAD)'
 paperurl: 'http://wen-tian-pineapple.github.io/files/1500_Final_Manuscript.pdf'
 citation: # 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
