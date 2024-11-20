@@ -1,80 +1,65 @@
 ---
-layout: archive  
 title: "CV"  
 permalink: /cv/  
-cvurl: 'http://wen-tian-pineapple.github.io/files/updated____CV.pdf'  
 author_profile: true  
+cvurl: 'http://wen-tian-pineapple.github.io/files/updated____CV.pdf'  
 redirect_from:  
   - /resume  
 ---
 
 {% include base_path %}  
-{% include base_path %}  
 [Download CV here](http://wen-tian-pineapple.github.io/files/updated____CV.pdf)
 
-## Education  
+Education  
 ======  
-**University of Michigan Ann Arbor (UofM), USA**  
-- MASTER IN ELECTRICAL ENGINEERING (VLSI track)  
+* **Master in Electrical Engineering (VLSI Track)**  
+  University of Michigan Ann Arbor (UofM), USA, 8/2022 - 5/2024 (expected)  
   - GPA: 3.927  
-  - Aug. 2022 - May 2024  
 
-**University of California San Diego (UCSD), USA**  
-- BACHELOR OF SCIENCE IN COMPUTER ENGINEERING  
+* **Bachelor of Science in Computer Engineering**  
+  University of California San Diego (UCSD), USA, 9/2020 - 6/2022  
   - GPA: 3.917 (Major GPA: 4.0)  
   - Warren College Honors community  
-  - Sep. 2020 - Jun. 2022  
 
-**Stony Brook University (SBU), USA**  
-- BACHELOR OF SCIENCE IN COMPUTER ENGINEERING AND COMPUTER SCIENCE  
+* **Bachelor of Science in Computer Engineering and Computer Science**  
+  Stony Brook University (SBU), USA, 7/2018 - 8/2020  
   - GPA: 4.0  
   - Honor college community  
-  - July 2018 - Aug. 2020  
 
-## Research Experience  
+Research Experience  
 ======  
-
-**VLSI CAD Lab & WCSNG Lab, UCSD, USA**  
-- **OpenRoad Project** (Jan. 2021 - Aug. 2022)  
-  - Improved HPWL (Half-Perimeter Wire Length) calculator to reduce wire length.  
+* **1/2021 - 8/2022: Researcher, VLSI CAD Lab & WCSNG Lab, UCSD, USA**  
+  - Improved HPWL (Half-Perimeter Wire Length) calculator/incrementer to reduce wire length.  
   - Enhanced cell placement to mitigate pin congestion.  
-- **Back Scattering Project**  
-  - Designed and implemented the testing platform for back-scattering BTLE signal ([ISSCC 2022]).  
+  - Designed a testing platform for back-scattering BTLE signal ([ISSCC 2022]).  
 
-**Michigan Integrated Circuit Lab (MICL), UofM, USA**  
-- **OpenFASOC Project** (Feb. 2023 - June 2024)  
-  - Implemented a special router for power net routing.  
-  - Developed reinforcement learning features for new AMS automation tools ([ICCAD 2024], [ISSCC 2024 "Code-a-Chip" Travel Grant Awards]).  
-- **GPGPU Simulator Project**  
-  - Conducted performance analysis of Nvidia’s confidential architecture with large language models like LLaMA.  
+* **2/2023 - 6/2024: Researcher, Michigan Integrated Circuit Lab (MICL), UofM, USA**  
+  - Developed a router feature for power net routing in OpenFASOC ([ICCAD 2024], [ISSCC 2024]).  
+  - Conducted performance analysis of Nvidia’s confidential GPGPU architecture using large models like LLaMA.  
 
-**EIC Lab, Georgia Institute of Technology, USA**  
-- **Freely Interruptible Progressive Large Model Inference Project** (July 2024 - present)  
-  - Designed micro-architecture and dataflow for the project ([aim for ASPLOS 2025]).  
+* **7/2024 - Present: Researcher, EIC Lab, Georgia Institute of Technology, USA**  
+  - Designed micro-architecture and dataflow for the "Freely Interruptible Progressive Large Model Inference Project" ([aim for ASPLOS 2025]).  
 
-## Work Experience  
+Work Experience  
 ======  
-
-**RiVAI Technologies, Shenzhen, China**  
-- **RTL DESIGN ENGINEER** (Nov. 2024 - Present)  
-  - Designed micro-architecture and implemented RTL for ML-ASIC based on RISC-V CPU core.  
+* **11/2024 - Present: RTL Design Engineer, RiVAI Technologies, Shenzhen, China**  
+  - Designed and implemented RTL for ML-ASIC based on the RISC-V CPU core.  
   - Optimized chip performance and power consumption.  
 
-**DHC Software, Nanchang, China**  
-- **SOFTWARE DEVELOPMENT ENGINEER** (Jun. 2020 - Jun. 2021)  
+* **6/2020 - 6/2021: Software Development Engineer, DHC Software, Nanchang, China**  
   - Designed software interfaces and webpages.  
-  - Created organ models using Mimics 20.0 and 3-matic. 
+  - Created organ models using Mimics 20.0 and 3-matic.  
 
-## Skills  
+Skills  
 ======  
-- **Computer Architecture**: Out-of-order RISC-V CPU  
-- **Programming**: C/C++, Python, Java, LaTeX, bash, makefile, Verilog, SystemVerilog  
-- **Digital & Physical Design**: Synopsys DC/Verdi/PrimeTime, Cadence Innovus  
+* **Computer Architecture**: Out-of-order RISC-V CPU  
+* **Programming**: C/C++, Python, Java, LaTeX, bash, makefile, Verilog, SystemVerilog  
+* **Digital & Physical Design**: Synopsys DC/Verdi/PrimeTime, Cadence Innovus  
 
-## Honors & Certifications  
+Honors and Certifications  
 ======  
-- IEEE SSCS "Code-a-Chip" Travel Grant Awards (2024)  
-- Dean's List (2022-2023, UofM Ann Arbor)  
-- Nvidia Jetson AI Specialist Certificate (2021)  
-- CLAD Certification, National Instruments (2021)  
-- Provost Honors (2020-2022, UCSD)  
+* IEEE SSCS "Code-a-Chip" Travel Grant Awards (2024)  
+* Dean's List (2022-2023, UofM Ann Arbor)  
+* Nvidia Jetson AI Specialist Certificate (2021)  
+* CLAD Certification, National Instruments (2021)  
+* Provost Honors (2020-2022, UCSD)  
