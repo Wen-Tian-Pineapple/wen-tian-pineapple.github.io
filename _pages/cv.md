@@ -29,13 +29,13 @@ Education
 Research Experience  
 ======  
 * **1/2021 - 8/2022: VLSI CAD Lab & WCSNG Lab, UCSD, USA**  
-  - Improved HPWL (Half-Perimeter Wire Length) calculator to reduce wire length.  
-  - Enhanced cell placement to mitigate pin congestion.  
-  - Designed a testing platform for back-scattering BTLE signal ([ISSCC 2022]).  
+  - Improve HPWL (Half-Perimeter Wire Length) calculator to reduce wire length.  
+  - Enhance cell placement to mitigate pin congestion.  
+  - Design a testing platform for back-scattering BTLE signal ([ISSCC 2022]).  
 
 * **2/2023 - 6/2024: Michigan Integrated Circuit Lab (MICL), UofM, USA**  
   - Developed a router feature for power net routing in OpenFASOC ([ICCAD 2024], [ISSCC "Code-a-Chip" Travel Grant Awards 2024]).  
-  - Conducted performance analysis of Nvidia’s confidential GPGPU architecture using large models like LLaMA.  
+  - Conduct performance analysis of Nvidia confidential computing architecture with large language model like lama using GPGPU simulator.  
 
 * **7/2024 - Present: EIC Lab, Georgia Institute of Technology, USA**  
   - Designed micro-architecture and dataflow for the "Freely Interruptible Progressive Large Model Inference Project" ([aim for ASPLOS 2025]).  
