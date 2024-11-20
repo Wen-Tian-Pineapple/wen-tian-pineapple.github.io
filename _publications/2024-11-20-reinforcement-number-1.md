@@ -1,6 +1,7 @@
 ---
 title: "Reinforcement Learning-Enhanced Cloud-Based Open Source Analog Circuit Generator for Standard and Cryogenic Temperatures in 130-nm and 180-nm OpenPDKs"
 collection: publications
+category: conferences
 permalink: /publications/2024-11-20-reinforcement-number-1/
 excerpt: 'Ali Hammoud*, Wen Tian*, Anhang Li*, Ayushman Tripathi, Karthik Lakshmanan, Harsh Khandeparkar, Ryan Wans, Gregory Kielian, Boris Murmann, Dennis Sylvester, Mehdi Saligane'
 date: 2024-06-01
