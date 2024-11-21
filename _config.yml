@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wen Tian's Home Page 🏠"
+title                    : "Wen Tian's Home 🏠"
 title_separator          : "-"
 name                     : &name "Wen Tian"
 description              : &description "personal description"
