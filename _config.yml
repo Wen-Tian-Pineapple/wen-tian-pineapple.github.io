@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wen Tian's Home Page"
+title                    : "Wen Tian's Home Page 🏠"
 title_separator          : "-"
 name                     : &name "Wen Tian"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "wentian.png"
   name             : "Wen Tian"
   pronouns         : # example: "she/her"  
-  bio              : "Be the change that you want to see in the world."
+  bio              : "Be the change that you want to see in the world. 😃"
   location         : "China, ShenZhen"
   employer         : "RiVAI technologies"
   uri              : # URL
