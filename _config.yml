@@ -21,7 +21,7 @@ repository               : "wen-tian-pineapple/wen-tian-pineapple.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wentian.jepg"
+  avatar           : "wentian.jpeg"
   name             : "Wen Tian"
   pronouns         : # example: "she/her"  
   bio              : "Be the change that you want to see in the world. 😃"
