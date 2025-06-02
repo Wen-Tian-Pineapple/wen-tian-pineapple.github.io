@@ -2,7 +2,7 @@
 title: "CV"  
 permalink: /cv/  
 author_profile: true  
-cvurl: 'http://wen-tian-pineapple.github.io/files/updated____CV.pdf'  
+cvurl: 'http://wen-tian-pineapple.github.io/files/Awesome_CV_.pdf'  
 redirect_from:  
   - /resume  
 ---
@@ -37,14 +37,13 @@ Research Experience
   - Implement a Reinforcement Learning capability with new AMS automation tool in OpenFASOC. ([ICCAD 2024], [ISSCC "Code-a-Chip" Travel Grant Awards 2024]).  
   - Conduct performance analysis of Nvidia confidential computing architecture with large language model like lama using GPGPU simulator.  
 
-* **7/2024 - Present: EIC Lab, Georgia Institute of Technology, USA**  
-  - Design micro-architecture and dataflow for the "Freely Interruptible Progressive Large Model Inference Project" ([aim for ASPLOS 2025]).  
+* **7/2024 - 2/2025: EIC Lab, Georgia Institute of Technology, USA**  
+  - Design micro-architecture and dataflow for the "Freely Interruptible Progressive Large Model Inference Project".  
 
 Work Experience  
 ======  
 * **11/2024 - Present: RTL Design Engineer, RiVAI Technologies, Shenzhen, China**  
-  - Design and implement RTL for ML-ASIC based on the RISC-V CPU core.  
-  - Optimize chip performance and power consumption.  
+  - Micro-architecture and RTL design and implementation for RAS/DEBUG/Die2Die bridge modules.
 
 * **6/2020 - 6/2021: Software Development Engineer, DHC Software, Nanchang, China**  
   - Design software interfaces and webpages.  
